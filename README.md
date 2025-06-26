@@ -1,7 +1,10 @@
 # Narde
 A Unity game based on Narde (also known as LongGammon).  
+Project source code is private, linked [here](git@github.com:liormushiev/Narde.git)
 *Game Built with Unity 2022.3.5f1*  
 *Testing Built with C#.NET 7.0.100*
+
+
 
 # Screenshots
 ![Menu Screenshot](Screenshots/img1.png)
